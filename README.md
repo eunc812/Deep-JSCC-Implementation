@@ -8,6 +8,8 @@
 https://colab.research.google.com/drive/16rcHuqdTN3X9q8ojp25UNF-BZUXzhOqT?usp=sharing
 )
 
+## architecture
+![Architecture](architecture.jpg)
 
 ## train
 python train.py 
