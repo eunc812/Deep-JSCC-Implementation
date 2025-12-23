@@ -5,7 +5,7 @@
 + This implementation is based on the paper [Deep Joint Source-Channel Coding for Wireless Image Transmission](https://ieeexplore.ieee.org/abstract/document/8723589).
 
 + [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/eunc812/Deep-JSCC-Implementation/blob/main/colab_demo.ipynb
+[https://colab.research.google.com/github/eunc812/Deep-JSCC-Implementation/blob/main/colab_demo.ipynb](https://colab.research.google.com/drive/16rcHuqdTN3X9q8ojp25UNF-BZUXzhOqT?usp=sharing)
 )
 
 
