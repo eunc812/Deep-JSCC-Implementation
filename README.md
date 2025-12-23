@@ -8,13 +8,13 @@
 https://colab.research.google.com/drive/16rcHuqdTN3X9q8ojp25UNF-BZUXzhOqT?usp=sharing
 )
 
-## architecture
+## Architecture
 ![Architecture](architecture.jpg)
 
-## train
+## Train
 python train.py 
 
-## evaluation
+## Evaluation
 python eval.py
 
 ## Result
