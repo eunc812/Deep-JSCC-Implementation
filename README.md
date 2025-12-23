@@ -4,6 +4,11 @@
 + Trains separate models at fixed SNR_train ∈ {1,4,7,13,19} and evaluates PSNR across SNR_test sweep.
 + This implementation is based on the paper [Deep Joint Source-Channel Coding for Wireless Image Transmission](https://ieeexplore.ieee.org/abstract/document/8723589).
 
++ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/eunc812/Deep-JSCC-Implementation/blob/main/colab_demo.ipynb
+)
+
+
 ## train
 python train.py 
 
