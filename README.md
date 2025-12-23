@@ -16,4 +16,4 @@ python train.py
 python eval.py
 
 ## Result
-![AWGN PSNR](results/plots/awgn_psnr.png)
+![AWGN PSNR](results/awgn_psnr.png)
