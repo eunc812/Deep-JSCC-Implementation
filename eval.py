@@ -60,7 +60,7 @@ def main():
                  label=f"Deep JSCC (SNR_train={snr_tr}dB)")
     plt.xlabel("SNR_test (dB)")
     plt.ylabel("PSNR (dB)")
-    plt.title("AWGN channel")
+    plt.title("AWGN channel (k/n=1/6)")
     plt.grid(True)
     plt.legend()
 
