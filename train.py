@@ -46,7 +46,7 @@ def main():
     print("[device]", device, flush=True)
 
     train_snr_list = [1, 4, 7, 13, 19]
-    epochs = 20
+    epochs = 10
     latent_ch = 8
     lr = 1e-3
 
